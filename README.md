@@ -24,7 +24,7 @@ gibi yapılar farklı renklerle vurgulanır. Ayrıca sol tarafta satır numarala
 
 ## Ekran Görüntüsü
 
-![SyntaxHighlighter Screenshot](screenshot.png)
+![SyntaxHighlighter Screenshot](screenShot/highlightapp.png)
 
 ---
 
