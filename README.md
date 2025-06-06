@@ -35,7 +35,7 @@ gibi yapılar farklı renklerle vurgulanır. Ayrıca sol tarafta satır numarala
 
 ## Tanıtım Videosu 
 Uygulamanın kısa tanıtım videosu:  
-[Tanıtım Videosu]([https://youtu.be/6miwVdFR8wI](https://youtu.be/gDscnBPHctk))
+[Tanıtım Videosu](https://youtu.be/gDscnBPHctk)
 
 ## Ugulama Hakkında
 Projem hakkıbda yazdığım yazımı buradan okuyabilirsiniz:  
